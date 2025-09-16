@@ -1,12 +1,13 @@
 <!-- Bannière animée pleine largeur -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding" />
-
-</div>
+  
 
 <h1 align="center">✨ Hey, je suis El-Houssein Hamoudi ✨</h1>
 <h3 align="center">👨‍💻 Développeur Full-Stack — Django • ReactJS • Flutter — Nouakchott 🇲🇷</h3>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding" />
+
+</div>
 
 <p align="center">
   <!-- Badge visiteurs style Tokyonight -->
@@ -74,6 +75,6 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding" />
+<!--   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding" /> -->
   <p><b>✨ Merci de visiter mon profil ✨</b></p>
 </div>
